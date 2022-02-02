@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.landingPageBackground {
+    background-color: palevioletred;
+}
+
+.carPageBackground {
+    background-color: purple;
+}
+
+/*-------- KODEN FÖR ATT GÅ TILL NÄSTA SIDA --------*/
+.button {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+    height: 100%;
+    color: black;
+}
